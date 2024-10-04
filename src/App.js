@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App"> {/* Add class to center content */}
       <header>
-        <h1>Welcome to <span>Sushanth</span> Youtube Channel!</h1>
+        <h1>Welcome to <span>Sushanth one</span> Youtube Channel!</h1>
       </header>
       <main>
         <img src={logo} className="App-logo" alt="logo" /> {/* Use imported logo */}
